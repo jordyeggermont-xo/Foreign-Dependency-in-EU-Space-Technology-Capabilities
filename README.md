@@ -5,36 +5,12 @@
 [![Data Source: Orbis](https://img.shields.io/badge/Data-Orbis-blue)](https://www.moodys.com/web/en/us/capabilities/company-reference-data/orbis.html)
 [![Data Source: ESA](https://img.shields.io/badge/Data-ESA-blue)](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Space_Component_tenders_and_contracts)
 
-A quantitative Master's thesis analyzing the extent to which the European Union's space capabilities rely on non-EU actors across three critical strategic dimensions: corporate ownership, public procurement, and program supply chains.
+A case study as part of my Master's thesis analyzing the extent to which the European Union's space capabilities rely on non-EU actors across three critical strategic dimensions: corporate ownership, public procurement, and program supply chains.
 
 ---
 
 ## General information
-This research aims to investigate the dependency of the EU’s space capabilities on foreign
-actors along the following three dimensions, non-EU ownership of EU spacecraft
-manufacturing firms, non-EU success in EU space technology tenders and non-EU
-participation in the supply chain of EU space programmes.
-
-The share of investment deals that European space firms receive from foreign actors has
-steadily increased over the past years. (ESPI, 2023) While data on the yearly amount of
-foreign investments is easily findable, an in-depth analysis of the resulting degree of non-EU
-ownership of EU space firms has not yet been conducted. Since industrial autonomy is
-paramount to strategic autonomy, the degree of non-EU control over EU spacecraft
-manufacturing firms should be determined.
-
-The dependency of the public sector on foreign actors is another area in which strategic
-dependencies within the EU’s space capabilities can be revealed. Supply robustness in the
-public procurement of space technology is crucial for the resilience of the EU’s space
-capabilities and its correlated strategic aims. When public sector needs are then supplied by
-foreign companies, the EU’s space capabilities become vulnerable to potential trade
-restrictions and export bans. In order to determine this dependency, the share of tenders
-awarded by the EU and its member states to non-EU companies for the procurement of space
-technology will be analysed over a sufficient period.
-
-The argument is that an autonomous EU space capacity hinges on the foreign dependence of
-its supply chains. Therefore, it is crucial to also do a case study on the involvement of foreign
-actors in the main EU space programmes, as these represent the majority of the EU’s space
-capabilities.
+This repository contains the data, methodology, and detailed written out report of a case study investigating the foreign dependency of the European Union’s space capabilities. Achieving strategic autonomy requires ensuring that the EU can design, develop, procure, and operate space infrastructure without critical vulnerabilities to external actors. To evaluate the extent of these dependencies, this research examines three strategic dimensions: non-EU ownership of European spacecraft manufacturing firms, non-EU success in European space technology tenders, and non-EU participation in the supply chains of flagship EU space programmes.
 
 ## Executive Summary
 
