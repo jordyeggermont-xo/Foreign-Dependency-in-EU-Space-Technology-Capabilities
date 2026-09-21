@@ -69,6 +69,17 @@ Over 18% of space technology tenders between 2013 and 2022 were awarded to non-E
 
 *Source: Own analysis based on data retrieved from OpenTender.eu, 2023.*
 
+#### Table 3: Non-EU Success in EU Space Technology Tenders
+
+| Nationality non-EU tender supplier | #tenders won | Share of total #tenders (in %) |
+| :--- | :--- | :---: |
+| USA | 129 | 14,16 |
+| UK | 31 | 3,4 |
+| Canada | 6 | 0,66 |
+| Israel | 3 | 0,33 |
+| Switzerland | 1 | 0,11 |
+| **Total** | **170** | **18,66** |
+
 
 **Graph 1: Share of EU27 Space Technology Tenders Awarded to Non-EU Bidders (2013–2022)**
 
